@@ -1,6 +1,6 @@
 // puede manejar procesos y no solo unicos del porpio node
 
-const { exec  , spawn}  = require('child_process')  // iomporta objetos
+const { exec  , spawn }  = require('child_process')  // iomporta objetos
 
 // ls -la en bash
 
